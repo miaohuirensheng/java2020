@@ -386,44 +386,173 @@
 
 # JavaEE</br>
 
-## GET和POST的区别</br>
+### GET和POST的区别</br>
 
-## Servlet</br>
+### Servlet</br>
 
-## Filter</br>
+### Filter</br>
 
-## Cookie</br>
+### Cookie</br>
 
-## Session</br>
+### Session</br>
 
-## forward</br>
+### forward</br>
 
-## redirect</br>
+### redirect</br>
 
-## JSP</br>
+### JSP</br>
 
-## Spring</br>
+### Spring</br>
 
-## mybatis</br>
+### mybatis</br>
 
-# 分布式</br>
+# 系统设计</br>
 
-## Zookeeper</br>
+## 分布式</br>
+### 分布式事物</br>
+### 分布式锁</br>
 
-## Dubbo</br>
+## 中间件</br>
 
-## SpringCloud</br>
+### Zookeeper</br>
+
+### Dubbo</br>
+
+### SpringCloud</br>
+
+### nginx</br>
+
+
+##设计模式</br>
+
+###23种设计模式</br>
+
 
 # 操作系统</br>
+## 进程管理</br>
+### 进程调度算法</br>
+#### 交互式系统</br>
+#### 实时系统</br>
+### 切换</br>
+### 通信</br>
+### 经典同步问题</br>
+#### 哲学家进餐问题</br>
+## 内存管理</br>
+### 虚拟内存</br>
+### 分页地址映射</br>
+### 页面置换算法</br>
+### 分段</br>
+
+
+
 
 # 计算机网络</br>
+## 网络7层架构</br>
+## Tcp</br>
+### 原理</br>
+### 三次握手</br>
+### 四次挥手</br>
+## Http</br>
+## Https</br>
+## CDN</br>
+
+
+
+
+
+
+
+
 
 # 数据结构</br>
+## 栈</br>
+## 队列</br>
+## 链表</br>
+## 散列表</br>
+## 树</br>
+### 二叉树</br>
+### 红黑树</br>
+### B-tree树</br>
+## 图</br>
+
+
+
 
 # 数据库</br>
+## mysql</br>
+### 索引</br>
+#### B+ Tree索引</br>
+#### hash索引</br>
+#### 全文索引</br>
+### 查询优化</br>
+#### Explain分析</br>
+### 存储引擎</br>
+#### InnoDB</br>
+#### MyISAM</br>
+### 数据类型</br>
+### 数据库三范式</br>
+### 存储过程</br>
+### 并发策略</br>
+#### 悲观锁</br>
+#### 乐观锁</br>
+### 锁</br>
+#### 行级锁</br>
+#### 表级锁</br>
+#### 页级锁</br>
+## redis</br>
+### 数据类型</br>
+### 持久化方式</br>
+### 存储结构</br>
+### 过期策略</br>
+### 集群策略</br>
+### 缓存穿透</br>
+### 缓存雪崩</br>
+### 缓存击穿</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 算法</br>
+## 排序</br>
+### 二分查找</br>
+### 归并排序</br>
+### 冒泡排序</br>
+### 插入排序</br>
+### 快速排序</br>
+### 希尔排序</br>
+## 最短路径</br>
+## 最小生成树</br>
+
+
+
+
+
+
+
 
 # 工具</br>
+## git</br>
+## docker</br>
+
 
 

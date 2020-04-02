@@ -1,11 +1,11 @@
 ## :coffee: Java专题
 
-- [java基础](notes/剑指%20Offer%20题解%20-%20目录1.md) </br>
-- [java I/O](notes/剑指%20Offer%20题解%20-%20目录1.md) </br>
-- [java集合](notes/剑指%20Offer%20题解%20-%20目录1.md) </br>
-- [java并发](notes/剑指%20Offer%20题解%20-%20目录1.md) </br>
-- [java虚拟机](notes/剑指%20Offer%20题解%20-%20目录1.md)</br>
-- [javaWeb](notes/剑指%20Offer%20题解%20-%20目录1.md)</br>
+- [java基础](notes/java/base/java_base.md) </br>
+- [java I/O](notes/java/io/java_io.md) </br>
+- [java集合](notes/java/collection/java_collection.md) </br>
+- [java并发](notes/java/concurrent/java_concurrent.md) </br>
+- [java虚拟机](notes/java/jvm/java_jvm.md)</br>
+- [javaWeb](notes/java/web/java_web.md)</br>
 
 ## :books: 系统设计
 
